@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyTabs</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="fragment_1">Simple Fragment 1</string>
+    <string name="fragment_2">Simple Fragment 2</string>
+
+</resources>
